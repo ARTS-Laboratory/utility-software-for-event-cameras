@@ -1,2 +1,2 @@
-# utility-software-for-event-cameras
+# Utility Software for Event Cameras
 Utility software and artifacts for event cameras
