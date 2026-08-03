@@ -68,11 +68,11 @@ Refer to the official OpenEB Windows installation guide:
 
 https://docs.prophesee.ai/4.6.2/installation/windows_openeb.html#chapter-installation-windows-openeb
 
-**Install Following Packages**
-### 1.1 Git 
+### 1. Install Required Packages 
+#### 1.1 Git 
 Link to download: https://git-scm.com/downloads/win
 
-### 1.2 CMake Steps
+#### 1.2 CMake Steps
 1. Download the x64 Installer
     - Newest version of CMake: https://cmake.org/download/
 	- Downloading zip is recommended for the ReadMe
@@ -86,7 +86,7 @@ Link to download: https://git-scm.com/downloads/win
 cmake --version
 ```
 
-### 1.3 Download MSYS2
+#### 1.3 Download MSYS2
 1. Link to download: https://www.msys2.org/#installation
 2.  Once the exe is downloaded run it and enter:
 
